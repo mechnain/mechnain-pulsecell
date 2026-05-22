@@ -285,10 +285,3 @@ Combined CSV exports use neutral `test_waveform_*` columns rather than assuming 
 - Add model version metadata to every export.
 - Add additional waveform families and regression tests.
 
-## Portfolio / Resume Bullet
-
-Built a Python and Streamlit engineering decision-support suite for pulsed-current electrochemical system modelling, including fair DC normalization modes, first-order bubble coverage simulation, thermal-risk estimation, design-space sweeps, sensitivity analysis, calibration tooling, CLI execution, and Markdown/HTML report generation.
-
-## LinkedIn Post Starter
-
-I built Mechnain PulseCell V1.0, a software-only engineering simulation suite for exploring pulsed-current waveform effects on modeled bubble coverage, active area, energy input, and theoretical Faraday estimates. The goal was to turn a simple dashboard into a disciplined workflow: scenario definition, fair comparison, design-space exploration, uncertainty analysis, calibration, and reporting, with clear safety boundaries and no hardware guidance.
